@@ -39,7 +39,7 @@ education:
     - course: MSc. Biomedical Sciences
       institution: Bonn-Rhein-Sieg University of Applied Sciences
       year: 2018
-    - course: MBsc in Molecular and Cellular Biology(Genetics)
+    - course: Bsc. in Molecular and Cellular Biology(Genetics)
       institution: Shahed University of Tehran
       year: 2011
 
