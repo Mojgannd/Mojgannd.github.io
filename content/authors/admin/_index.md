@@ -29,22 +29,20 @@ bio: My research interests include machine learning, data science, multi-omic da
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Data Science 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc. Biomedical Sciences
+      institution: Bonn-Rhein-Sieg University of Applied Sciences
+      year: 2018
+    - course: MBsc in Molecular and Cellular Biology(Genetics)
+      institution: Shahed University of Tehran
+      year: 2011
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'naghizadeh.mojgan@gmail.com'
+    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MoND_MoND19
