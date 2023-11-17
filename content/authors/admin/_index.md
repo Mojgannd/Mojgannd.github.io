@@ -28,13 +28,13 @@ role: I ❤️ to listen to the stories of the data
 bio: My research interests include machine learning, data science, multi-omic data analysis, digital pathology.
 
 # Interests to show in About widget
-  interests:
+interests:
   - Machine Learning
   - Deep Learning
   - Data Science
 
 # Education to show in About widget
-  education:
+education:
   courses:
     - course: MSc. Biomedical Sciences
       institution: Bonn-Rhein-Sieg University of Applied Sciences
