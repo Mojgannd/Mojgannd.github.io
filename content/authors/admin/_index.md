@@ -28,18 +28,18 @@ role: I ❤️ to listen to the stories of the data
 bio: My research interests include machine learning, data science, multi-omic data analysis, digital pathology.
 
 # Interests to show in About widget
-interests:
+  interests:
   - Machine Learning
   - Deep Learning
-  - Data Science 
+  - Data Science
 
 # Education to show in About widget
-education:
+  education:
   courses:
     - course: MSc. Biomedical Sciences
       institution: Bonn-Rhein-Sieg University of Applied Sciences
       year: 2018
-    - course: Bsc. in Molecular and Cellular Biology(Genetics)
+    - course: BSc. in Molecular and Cellular Biology(Genetics)
       institution: Shahed University of Tehran
       year: 2011
 
@@ -51,15 +51,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 600
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: 
         description: ''
         percent: 40
         icon: database
