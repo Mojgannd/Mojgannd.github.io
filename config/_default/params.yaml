@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
-  theme_night: my_theme
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -63,7 +63,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: my_theme
+    theme_light: minimal
     theme_dark: dracula
   math:
     enable: false
