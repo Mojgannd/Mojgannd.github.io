@@ -1,0 +1,4 @@
+# Example theme customization
+[colors]
+primary = "#990099"   # Dark purple
+secondary = "#ff66b2" # Pink
