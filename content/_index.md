@@ -33,8 +33,8 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        gradient_end: '#990099'
-        gradient_start: '#ff66b2'
+        gradient_end: '#800080'
+        gradient_start: '#FF00FF'
         text_color_light: true
   - block: about.biography
     id: about
