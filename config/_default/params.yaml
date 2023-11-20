@@ -63,7 +63,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: minimal
+    theme_light: theme
     theme_dark: dracula
   math:
     enable: false
