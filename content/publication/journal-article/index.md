@@ -37,7 +37,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.mdpi.com/1422-0067/21/9/3078'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://www.mdpi.com/1422-0067/21/9)'
   focal_point: ""
   preview_only: false
 

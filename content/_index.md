@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Lead CRA
+          company: AMS Advanced Medical Services GmbH
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ''
+          location: Mannheim
+          date_start: 'Apr 2019'
           date_end: ''
           description: |2-
               Responsibilities include:
