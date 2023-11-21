@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.linkedin.com/
-          date_end: '2023-09-13'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-09-13'
           description: ''
           icon: linkedin
           organization: linkedin
@@ -108,8 +108,8 @@ sections:
           title: Python Functions for Data Science
           url: ''
         - certificate_url: https://www.linkedin.com/
-          date_end: '2023-09-13'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-09-13'
           description: ''
           icon: linkedin
           organization: linkedin
@@ -117,8 +117,8 @@ sections:
           title: Statistics Foundations 3 Using Data Sets
           url: ''
         - certificate_url: https://www.linkedin.com/
-          date_end: '2023-08-31'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-08-31'
           description: ''
           icon: linkedin
           organization: linkedin
@@ -126,8 +126,8 @@ sections:
           title: Statistics Foundations 2 Probability
           url: ''
         - certificate_url: https://www.linkedin.com/
-          date_end: '2023-08-30'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-08-30'
           description: ''
           icon: linkedin
           organization: linkedin
@@ -135,8 +135,8 @@ sections:
           title: Statistics Foundations 1 The Basics
           url: ''
         - certificate_url: https://www.coursera.org
-          date_end: '2023-07-12'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-07-12'
           description: ''
           icon: coursera
           organization: Coursera
@@ -144,8 +144,8 @@ sections:
           title: Machine Learning Foundations, A Case Study Approach
           url: ''
         - certificate_url: https://www.coursera.org
-          date_end: '2023-03-14'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-03-14'
           description: ''
           icon: coursera
           organization: Coursera
@@ -153,8 +153,8 @@ sections:
           title: Command Line Tools for Genomic Data Science
           url: ''
         - certificate_url: https://www.coursera.org
-          date_end: '2023-01-13'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-01-13'
           description: ''
           icon: coursera
           organization: Coursera
@@ -162,8 +162,8 @@ sections:
           title: Introduction to Genomic Technologies
           url: ''
         - certificate_url: https://www.coursera.org
-          date_end: '2023-01-20'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-01-20'
           description: ''
           icon: coursera
           organization: Coursera
