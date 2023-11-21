@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lead CRA
+        - title: Lead Clinical Research Associate
+          company: AMS Advanced Medical Services GmbH
+          company_url: ''
+          company_logo: ''
+          location: Mannheim
+          date_start: '2020-07-01'
+          date_end: '2021-09-30'
+          description: |2-
+              Responsibilities include:
+
+              * A
+              * B
+              * D
+        - title: Clinical Research Associate
           company: AMS Advanced Medical Services GmbH
           company_url: ''
           company_logo: ''
           location: Mannheim
           date_start: '2019-04-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2021-09-31'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
