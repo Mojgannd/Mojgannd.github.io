@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-11-16
 type: landing
 
 sections:
@@ -98,33 +98,79 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.linkedin.com/
+          date_end: '2023-09-13'
+          date_start: ''
+          description: ''
+          icon: linkedin
+          organization: linkedin
+          organization_url: https://www.linkedin.com/
+          title: Python Functions for Data Science
+          url: ''
+        - certificate_url: https://www.linkedin.com/
+          date_end: '2023-09-13'
+          date_start: ''
+          description: ''
+          icon: linkedin
+          organization: linkedin
+          organization_url: https://www.linkedin.com/
+          title: Statistics Foundations 3 Using Data Sets
+          url: ''
+        - certificate_url: https://www.linkedin.com/
+          date_end: '2023-08-31'
+          date_start: ''
+          description: ''
+          icon: linkedin
+          organization: linkedin
+          organization_url: https://www.linkedin.com/
+          title: Statistics Foundations 2 Probability
+          url: ''
+        - certificate_url: https://www.linkedin.com/
+          date_end: '2023-08-30'
+          date_start: ''
+          description: ''
+          icon: linkedin
+          organization: linkedin
+          organization_url: https://www.linkedin.com/
+          title: Statistics Foundations 1 The Basics
+          url: ''
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2023-07-12'
+          date_start: ''
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Machine Learning Foundations, A Case Study Approach
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://www.coursera.org
+          date_end: '2023-03-14'
+          date_start: ''
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Command Line Tools for Genomic Data Science
           url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: '2023-01-13'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Introduction to Genomic Technologies
+          url: ''
+        - certificate_url: https://www.coursera.org
+          date_end: '2023-01-20'
+          date_start: ''
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Python for Genomic Data Science
+          url: ''
+
     design:
       columns: '2'
   - block: collection
