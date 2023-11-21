@@ -81,7 +81,7 @@ sections:
           company_logo: ''
           location: Mannheim
           date_start: '2019-04-01'
-          date_end: '2021-09-31'
+          date_end: '2021-09-30'
           description: ''
     design:
       columns: '2'
