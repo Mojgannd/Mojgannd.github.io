@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Mannheim
-          date_start: 'Apr 2019'
+          date_start: '2019-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
