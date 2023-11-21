@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "Increase in Efficacy of Checkpoint Inhibition by Cytokine-Induced-Killer Cells as a Combination Immunotherapy for Renal Cancer"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Mojgan Naghizadeh Dehno
+- Yutao Li
+- Hans Weiher
+- Ingo GH Schmidt-Wolf
+
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2020-04-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +21,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*International Journal of Molecular Sciences, 21*(9)"
+publication_short: "Int. J. Mol. Sci."
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Abstract
+
+Cytokine-induced killer (CIK) cells are heterogeneous, major histocompatibility complex (MHC)-unrestricted T lymphocytes that have acquired the expression of several natural killer (NK) cell surface markers following the addition of interferon gamma (IFN-γ), OKT3 and interleukin-2 (IL-2). Treatment with CIK cells demonstrates a practical approach in cancer immunotherapy with limited, if any, graft versus host disease (GvHD) toxicity. CIK cells have been proposed and tested in many clinical trials in cancer patients by autologous, allogeneic or haploidentical administration. The possibility of combining them with specific monoclonal antibodies nivolumab and ipilimumab will further expand the possibility of their clinical utilization. Initially, phenotypic analysis was performed to explore CD3, CD4, CD56, PD-1 and CTLA-4 expression on CIK cells and PD-L1/PD-L2 expression on tumor cells. We further treated CIK cells with nivolumab and ipilimumab and measured the cytotoxicity of CIK cells cocultured to renal carcinoma cell lines, A-498 and Caki-2. We observed a significant decrease in viability of renal cell lines after treating with CIK cells (p < 0.0001) in comparison to untreated renal cell lines and anti-PD-1 or anti-CTLA-4 treatment had no remarkable effect on the viability of tumor cells. Using CCK-8, Precision Count Beads™ and Cell Trace™ violet proliferation assays, we proved significant increased proliferation of CIK cells in the presence of a combination of anti-PD-1 and anti-CTLA-4 antibodies compared to untreated CIK cells. The IFN-γ secretion increased significantly in the presence of A-498 and combinatorial blockade of PD-1 and CTLA-4 compared to nivolumab or ipilimumab monotreatment (p < 0.001). In conclusion, a combination of immune checkpoint inhibition with CIK cells augments cytotoxicity of CIK cells against renal cancer cells.
+
+{style="text-align: justify;"}
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://www.mdpi.com/1422-0067/21/9/3078'
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''

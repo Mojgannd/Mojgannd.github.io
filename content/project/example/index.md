@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 About this Guided Project:
@@ -36,4 +36,6 @@ In this project you will create an interactive three-dimensional (3D) representa
 
 In this project, we will also cover basics about important databases used by biologists and biotechnologists, along with the type of sequence data we can access and visualize from these databases using Biopython & Jupyter notebook.
 
-sourse:https://www.coursera.org/projects/3d-sars-cov-19-protein-visualization-with-biopython
+Sourse:https://www.coursera.org/projects/3d-sars-cov-19-protein-visualization-with-biopython
+
+{style="text-align: justify;"}
