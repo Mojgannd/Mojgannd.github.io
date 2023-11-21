@@ -62,7 +62,7 @@ skills:
       - name: Machine learning
         description: ''
         percent: 65
-        icon: head-side-gear
+        icon: laptop-code
         icon_pack: fas
       - name: Deep learning
         description: ''

@@ -98,40 +98,40 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.linkedin.com/
+        - certificate_url: https://www.linkedin.com
           date_end: ''
           date_start: '2023-09-13'
           description: ''
           icon: linkedin
-          organization: linkedin
-          organization_url: https://www.linkedin.com/
+          organization: Linkedin
+          organization_url: https://www.linkedin.com
           title: Python Functions for Data Science
           url: ''
-        - certificate_url: https://www.linkedin.com/
+        - certificate_url: https://www.linkedin.com
           date_end: ''
           date_start: '2023-09-13'
           description: ''
           icon: linkedin
-          organization: linkedin
-          organization_url: https://www.linkedin.com/
+          organization: Linkedin
+          organization_url: https://www.linkedin.com
           title: Statistics Foundations 3 Using Data Sets
           url: ''
-        - certificate_url: https://www.linkedin.com/
+        - certificate_url: https://www.linkedin.com
           date_end: ''
           date_start: '2023-08-31'
           description: ''
           icon: linkedin
-          organization: linkedin
-          organization_url: https://www.linkedin.com/
+          organization: Linkedin
+          organization_url: https://www.linkedin.com
           title: Statistics Foundations 2 Probability
           url: ''
-        - certificate_url: https://www.linkedin.com/
+        - certificate_url: https://www.linkedin.com
           date_end: ''
           date_start: '2023-08-30'
           description: ''
           icon: linkedin
-          organization: linkedin
-          organization_url: https://www.linkedin.com/
+          organization: Linkedin
+          organization_url: https://www.linkedin.com
           title: Statistics Foundations 1 The Basics
           url: ''
         - certificate_url: https://www.coursera.org
