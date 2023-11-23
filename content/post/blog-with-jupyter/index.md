@@ -1,7 +1,7 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: Breast-cancer-data-notebook
 date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+summary: ''
 ---
 
 
@@ -25,10 +25,13 @@ print("Welcome to Academic!")
 Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
 
 ## Import the notebooks into your site
-
-```bash
+```
+bash
 pipx install academic
 academic import 'notebooks/**.ipynb' content/post/ --verbose
 ```
 
 The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+
+
+
