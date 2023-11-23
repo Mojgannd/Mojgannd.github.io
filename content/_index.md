@@ -70,11 +70,7 @@ sections:
           date_start: '2020-07-01'
           date_end: '2021-09-30'
           description: |2-
-              Responsibilities include:
-
-              * A
-              * B
-              * D
+              
         - title: Clinical Research Associate
           company: AMS Advanced Medical Services GmbH
           company_url: ''
@@ -227,14 +223,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  #- block: markdown
+    #content:
+      #title: Gallery
+      #subtitle: ''
+      #text: |-
+       # {{< gallery album="demo" >}}
+    #design:
+      #columns: '1'
   - block: collection
     id: featured
     content:
@@ -260,16 +256,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  #- block: collection
+    #id: talks
+    #content:
+      #title: Recent & Upcoming Talks
+      #filters:
+        #folders:
+          #- event
+    #design:
+      #columns: '2'
+      #view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
