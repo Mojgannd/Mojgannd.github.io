@@ -213,6 +213,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Biopython
+          tag: Biopython
         - name: Deep Learning
           tag: Deep Learning
         - name: Other
