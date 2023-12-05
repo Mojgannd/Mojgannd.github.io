@@ -32,9 +32,9 @@ url_video: ''
 
 About this Guided Project:
 
-In this project you will create an interactive three-dimensional (3D) representation of SARS-CoV-19 (Coronavirus) protein structures & publication-quality pictures of the same, understand properties of SARS-CoV-19 genome, handle biological sequence data stored in FASTA & PDB (Protein Data Bank) and XML format, and get insights from this data using Biopython. This hands-on project will also give you a glimpse of tasks a Bioinformatician performs on a daily basis, along with the up-to-date concepts and database use cases in the field of Medical Research and Human genetics. 
+In this project we created an interactive three-dimensional (3D) representation of SARS-CoV-19 (Coronavirus) protein structures & publication-quality pictures of the same, understand properties of SARS-CoV-19 genome, handle biological sequence data stored in FASTA & PDB (Protein Data Bank) and XML format, and get insights from this data using Biopython. This hands-on project also gave me a glimpse of tasks a Bioinformatician performs on a daily basis, along with the up-to-date concepts and database use cases in the field of Medical Research and Human genetics. 
 
-In this project, we will also cover basics about important databases used by biologists and biotechnologists, along with the type of sequence data we can access and visualize from these databases using Biopython & Jupyter notebook.
+In this project, I also become familiar with the basics about important databases used by biologists and biotechnologists, along with the type of sequence data that we can access and visualize from these databases using Biopython & Jupyter notebook.
 
 Sourse:https://www.coursera.org/projects/3d-sars-cov-19-protein-visualization-with-biopython
 
