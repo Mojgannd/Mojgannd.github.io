@@ -111,7 +111,7 @@ social:
     link: https://github.com/Mojgannd
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mojgan-n-0156405a/
+    link: https://www.linkedin.com/in/mojgan-naghizadeh/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
